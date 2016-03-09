@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="Quabyte Test Suite" tests="1" assertions="1" failures="0" errors="0" time="0.015382">
-    <testsuite name="UtilitiesTest" file="/home/vagrant/Code/Development/Framework/tests/UtilitiesTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.015382">
-      <testcase name="makeUniqueName" class="UtilitiesTest" file="/home/vagrant/Code/Development/Framework/tests/UtilitiesTest.php" line="11" assertions="1" time="0.015382"/>
-    </testsuite>
-  </testsuite>
-</testsuites>
